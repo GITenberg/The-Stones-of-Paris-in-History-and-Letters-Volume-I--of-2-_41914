@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '41426'
     url: http://www.gutenberg.org/2009/agents/41426
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41914#The-Stones-of-Paris-in-History-and-Letters-Volume-I--of-2-
 gutenberg_issued: '2013-01-25'
 gutenberg_type: Text
 identifiers:
